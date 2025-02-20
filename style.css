@@ -246,6 +246,8 @@ span, .logo span{
     content:"Cyber Security Engineer";
     color: #00ffee;
     animation: words 20s infinite;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .text-animation span::after{
