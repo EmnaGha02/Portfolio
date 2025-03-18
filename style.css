@@ -394,14 +394,6 @@ span, .logo span{
     z-index: 5;
 }
 
-.tunisia {
-    border-left: 4px solid #00C6FF;
-}
-
-.tunisia::before {
-    background-color: #00C6FF;
-    box-shadow: 0 0 10px #00C6FF;
-}
 
 .France {
     border-left: 4px solid #0049FF;
@@ -419,6 +411,14 @@ span, .logo span{
 .UAE::before {
     background-color: #9000FF;
     box-shadow: 0 0 10px #9000FF;
+}
+.tunisia {
+    border-left: 4px solid #00C6FF;
+}
+
+.tunisia::before {
+    background-color: #00C6FF;
+    box-shadow: 0 0 10px #00C6FF;
 }
 
 
